@@ -1,0 +1,10 @@
+# Allow all crawlers access to the entire site
+User-agent: *
+Allow: /
+
+# Point crawlers to the sitemap file
+Sitemap: https://bobcastso.github.io/soft/sitemap.xml
+
+# --- IMPORTANT --- 
+# Replace 'your-repository-name' with the actual name of your GitHub repository!
+# If using a custom domain, replace the entire URL before 'sitemap.xml'. 

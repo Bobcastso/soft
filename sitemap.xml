@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://bobcastso.github.io/soft/</loc>
+    <lastmod>2024-07-27</lastmod> <!-- Update this date when you make significant changes -->
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- IMPORTANT -->
+  <!-- Replace 'your-repository-name' with the actual name of your GitHub repository! -->
+  <!-- If using a custom domain, replace the entire URL in <loc>. -->
+  <!-- Update <lastmod> date when content changes significantly. -->
+
+</urlset> 
